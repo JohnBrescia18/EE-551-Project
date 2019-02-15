@@ -4,12 +4,12 @@ Objective:
 The object of this code is to create a two player snake game. Both players would play on the same keyboard and would battle agaisnt each other in order to be the last snake standing
 
 Features:
--1 or 2 players be able to play 
--Allow players to name their snake and have their snakes name displayed at the top of the screen next to where there score woulld be placed.
+- 1 or 2 players be able to play 
+- Allow players to name their snake and have their snakes name displayed at the top of the screen next to where there score woulld be placed.
 
--Library for potential use: Pygame
+- Library for potential use: Pygame
 
--After each game, the start menu would pop back up allowing you to switch the gamemode(1 or 2 players).
+- After each game, the start menu would pop back up allowing you to switch the gamemode(1 or 2 players).
 
 TODO:
 - Create a grid for the playing field (very large so there is plenty of room and so the game feels less choppy)
